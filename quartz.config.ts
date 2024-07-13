@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🔬",
+    pageTitle: "📔",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -28,25 +28,25 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "#E2725B",
+          light: "#fdfdfd",        // Warm white
+          lightgray: "#e8e6e3",    // Light sepia
+          gray: "#c4b29a",         // Sepia
+          darkgray: "#3a111c",     // Dark sepia
+          dark: "#3e1c33",         // Dark brown
+          secondary: "#ff9932",    // Warm brown
+          tertiary: "#d6bfa4",     // Pale beige
+          highlight: "#ffe8bd",    // Khaki
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "#E2725B",
-        },
+          light: "#2b2b2b",        // Dark brown
+          lightgray: "#524a41",    // Dark sepia
+          gray: "#857a70",         // Medium sepia
+          darkgray: "#b8a899",     // Light sepia
+          dark: "#e5dccd",         // Light beige
+          secondary: "#ff9932",    // Warm brown
+          tertiary: "#d6bfa4",     // Pale beige
+          highlight: "#855e42",    // Light khaki
+        },        
       },
     },
   },

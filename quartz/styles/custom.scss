@@ -1,3 +1,21 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.callout-gear {
+    &[data-callout="gear"] {
+      --color: #3c69e7;
+      --border: #0000aa;
+      --bg: #a6bce2;
+      --callout-icon: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M4 2h16"%3E%3C/path%3E%3Cpath d="M10 2v7.31a4 4 0 0 1-2.83 3.84l-2.28.57a1 1 0 0 0-.78 1v1.78a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-1.78a1 1 0 0 0-.78-1l-2.28-.57a4 4 0 0 1-2.83-3.84V2"%3E%3C/path%3E%3C/svg%3E');
+    }
+  }
+  
+  .callout-reagents {
+    &[data-callout="reagents"] {
+      --color: #ea9e2c;
+      --border: #5c351e;
+      --bg: #f0a34546;
+      --callout-icon: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Ccircle cx="12" cy="12" r="3"%3E%3C/circle%3E%3Cpath d="M19.4 15a1.77 1.77 0 0 0 .33 2l.06.06a2 2 0 0 1 0 2.83l-1.54 1.54a2 2 0 0 1-2.83 0l-.06-.06a1.77 1.77 0 0 0-2-.33 1.77 1.77 0 0 0-1 1.54v.3a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-.3a1.77 1.77 0 0 0-1-1.54 1.77 1.77 0 0 0-2 .33l-.06.06a2 2 0 0 1-2.83 0l-1.54-1.54a2 2 0 0 1 0-2.83l.06-.06a1.77 1.77 0 0 0 .33-2 1.77 1.77 0 0 0-1.54-1H3a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h.3a1.77 1.77 0 0 0 1.54-1 1.77 1.77 0 0 0-.33-2l-.06-.06a2 2 0 0 1 0-2.83l1.54-1.54a2 2 0 0 1 2.83 0l.06.06a1.77 1.77 0 0 0 2-.33h.3a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v.3a1.77 1.77 0 0 0 1 1.54 1.77 1.77 0 0 0 2-.33l.06-.06a2 2 0 0 1 2.83 0l1.54 1.54a2 2 0 0 1 0 2.83l-.06.06a1.77 1.77 0 0 0-.33 2h.3a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-.3a1.77 1.77 0 0 0-1.54 1z"%3E%3C/path%3E%3C/svg%3E');
+    }
+  }

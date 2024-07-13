@@ -1,24 +1,29 @@
 ---
 title: notebook.protist.info
 ---
- 
-Hello all,
+**protist.info** aims to be a comprehensive, free resource organizing and linking all knowledge about protists. The main site, though not yet available, will bring together general information about protists (the why and what).
 
-The goal of protist.info is to be an all-inclusive, free resource, with all the available knowledge about protists and for researching them too.
+**notebook.protist.info** focuses on protist research (the how). Sharing institutional knowledge, online resources, and historical texts. It spans **culturing**, **microscopy**, and **molecular work**, compiling effective protocols for researching protists. To contribute, [[Make changes|send a message]], with your ideas or information. 
 
-The base website, **protist.info**, is to make general information on protists accessible (the why and what). This is not yet available. Here are some papers if you are interested in what protists are and why they are intriguing to biologists.
+[[protocols]]
 
-notebook.protist.info is specifically for performing research on protists. This includes institutional knowledge (shared between the academics), compiling resources already on the web, and unearthing historical texts that may be of use. The body of knowledge being created here concerns **culturing**, **microscopy**, **molecular work**, and **bioinformatics**. If you would like to participate in this journey, please [[message]] me with the content that you'd like to contribute.
+[[recipes]]
 
+Everyone can do science. To encourage this, notebook.protist.info is continuously adding and updating protocols with frugality in mind. Not everyone has access to a laboratory or expensive equipment. Thus, we will attempt to provide multiple routes to achieve a certain task when possible (Ex. [[Sterilizing things]])).
+
+
+<!--
 **Guides**
 
-*Guides join multiple protocols together to help you form a clearer path for your protist research ideas*
+*Guides join multiple protocols together to show what is possible*
 
 Isolating and culturing amoebae for beginners
 
 How to do timelapse micrography
 
 Working with dung-dwelling protists
+
+Make Your Own Van Leeuwenhoek Microscope (Keeling)
 
 **Philosophies**
 
@@ -28,3 +33,6 @@ Thinking on the micro-level
 
 Linking to the best instead of creating new. If I can't write anything better, I will provide the resource here or link to it.
 
+Provide “substitutions” or alternatives to lab gear with gear you can find in a house or local grocery store.
+
+-->
