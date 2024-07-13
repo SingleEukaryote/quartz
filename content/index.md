@@ -35,4 +35,5 @@ Linking to the best instead of creating new. If I can't write anything better, I
 
 Provide “substitutions” or alternatives to lab gear with gear you can find in a house or local grocery store.
 
+There are more than one way to do something. So I will compile multiple ways here.
 -->
