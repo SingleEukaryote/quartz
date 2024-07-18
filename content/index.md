@@ -13,7 +13,7 @@ title: notebook.protist.info
 
 Everyone can do science. To encourage this, notebook.protist.info is continuously adding and updating protocols with frugality in mind. Not everyone has access to a laboratory or expensive equipment. Thus, we will attempt to provide multiple routes to achieve a certain task when possible (Ex. [[Sterilizing things]])).
 
-
+[[External protistology resources]]
 <!--
 **Guides**
 

@@ -1,7 +1,8 @@
-→ protostelid handbook
 
-→ protocols in protozoology
+[Protist Library](https://tristan.protist.info/library/protists.html)
 
+
+[Protocols in Protozoology](https://tristan.protist.info/library/books/protists/Protocols%20in%20Protozoology.pdf)
 
 
 
