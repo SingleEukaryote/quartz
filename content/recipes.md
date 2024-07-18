@@ -1,8 +1,8 @@
 
-[[recipes/media]]
+[[media]]
 
-[[recipes/molecular-reagents]]
+[[molecular-reagents]]
 
-[[recipes/staining]]
+[[staining]]
 
 

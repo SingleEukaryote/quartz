@@ -1,6 +1,8 @@
 ---
 title: notebook.protist.info
 ---
+**!! – under construction – consider this notebook to be in *beta* – !!**
+
 **protist.info** aims to be a comprehensive, free resource organizing and linking all knowledge about protists. The main site, though not yet available, will bring together general information about protists (the why and what).
 
 **notebook.protist.info** focuses on protist research (the how). Sharing institutional knowledge, online resources, and historical texts. It spans **culturing**, **microscopy**, and **molecular work**, compiling effective protocols for researching protists. To contribute, [[Make changes|send a message]], with your ideas or information. 

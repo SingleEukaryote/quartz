@@ -1,14 +1,16 @@
->This particular setup was designed for working at a power-limited research station in the Peruvian Amazon rainforest
+You can create a [[Still-Air-Box]] (SAB) and use it for storage of your gear. 
 
+
+>This particular setup was designed for working at a power-limited research station in the Peruvian Amazon rainforest for 2 weeks
 
 > [!gear]
-> Ethanol lamp
-> Microscope
-> Eyelash probe
+
+
+Electronics:
 > SD-cards or drives
-> Petri dishes
-> Spade
-> Tupperware containers
+> Canon DSLR and computer adaptor
+> 
+
 
 > [!reagents]
 > **Bring**
@@ -17,8 +19,6 @@
 > 
 > **Acquire**
 > 
-
-
 
 Jungle Biomechanics Lab Plan
 
@@ -36,25 +36,53 @@ Jungle Biomechanics Lab Plan
 [[Using a NDPL-1(2X) adaptor for DSLR-microscope photography]]
 
 
-**Dung work**
-
-
 
 **Sampling**
+
+- Plastic pipets
+- Sharpies (fine and thick)
+
+**Isolation and Culturing**
+- Agarose
+- TSA mix for [[Isolation of bacteria from various environments]]
+- Powder measuring tube (converting mass to volume)
+	- 2.2mL is ~ 1.5g agarose powder (100mL of media)
+	- 3.2mL is ~ 2g TSA powder (50mL of media)
+- Petri dishes
+- Glass flask
+- Head glove
+- Platinum wire
+- Parafilm (cut into strips)
+- Invert tweezers
+- Spade
+- Tweezers
+- Eyelash probe
+- Ethanol lamp + extra wick
+- Flint n steel lighter
+- Slides and cover slips
+- Insect pins (Austerlitz Minutiens 0.15mm)
+- Scissors
+- Digital scale?
+
+**Microscopy**
+- Standard upright light microscope
+- Objectives
+	- 4X and 10X for agar cultures
+	- 40X PHASE and 100X for slides
+- Phase and oblique lighting filters in a slider
+- Two light bulbs (LED)
+- Power cable
+- Lens paper
+- Slides
+- Cover slips
+- Immersion oil
+- [[Slide cages]]
+- Sticky tack
+- Ear swabs
+
+**Acquire there:**
 - Plastic bags (wet things)
 - Paper bags (dry things)
-
-
-- Parafilm
-- Plastic pipets
-- Flask
-- Invert tweezers
-- tweezers
-- eyelash probe
-- Scissors
-- Lens paper
-- slides
-- cover slips
-- platinum wire
-- ethanol lamp
-- 
+- Tupperware (dung humidity samples)
+-  200 proof liqueur
+- Spring water (4-5 L)

@@ -1,4 +1,9 @@
-# Making an imageJ microscope profile for scalebars
+> The goal here is to convert pixels in an image to micrometers. For this, we need a microscopic ruler (AKA a stage micrometer).
+
+(to write up)
+**Frugal**: use a coin (American penny)
+**Precise**: Use a calibrated precise stage micrometer
+
 
 1. Take pictures of ruler (2mm) at all magnifications
 2. Note everything about the set up
