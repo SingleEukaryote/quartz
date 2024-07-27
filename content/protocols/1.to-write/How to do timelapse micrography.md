@@ -1,7 +1,8 @@
+Why do timelapse microscopy? Sometimes protists are slow in their actions.
+
 **Setup**
 
 [[Camera setups for a microscope]]
-
 
 **Subject**
 
@@ -19,5 +20,4 @@
 **timecode**
 
 - Using after effects
-
-[[Adding a timecode to a timelapse video using a python script]]
+- [[Adding a timecode to a timelapse video using a python script]]

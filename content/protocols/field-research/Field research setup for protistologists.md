@@ -62,7 +62,7 @@ Jungle Biomechanics Lab Plan
 - Slides and cover slips
 - Insect pins (Austerlitz Minutiens 0.15mm)
 - Scissors
-- Digital scale?
+- Digital scale? → tube scoop
 
 **Microscopy**
 - Standard upright light microscope
@@ -86,3 +86,29 @@ Jungle Biomechanics Lab Plan
 - Tupperware (dung humidity samples)
 -  200 proof liqueur
 - Spring water (4-5 L)
+
+
+**To bring**:
+
+| Gear                                                     | including                                                                                            |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Microscope (body and head)                               | Objectives and other loose parts in the box (sorry I meant to put them all in one bag before I left) |
+| Field bag (gray)                                         | has very important protist tools                                                                     |
+| Canon DSLR                                               | computer adaptor and battery charger                                                                 |
+| SD card (if available)                                   |                                                                                                      |
+| DSLR to Microscope adaptor                               |                                                                                                      |
+| Agarose and Tryptic Soy powders (in the plastic baggies) |                                                                                                      |
+| Petri dishes                                             |                                                                                                      |
+| Glass flask                                              |                                                                                                      |
+
+**Acquire in Peru:**
+
+| Gear                         |
+| ---------------------------- |
+| Plastic bags                 |
+| Paper bags                   |
+| Small Tupperware             |
+| 200 proof alcohol (250mL)    |
+| Spring water (4-5 L)         |
+| Microwave or pressure cooker |
+

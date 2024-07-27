@@ -3,17 +3,21 @@ title: notebook.protist.info
 ---
 **!! – under construction – consider this notebook to be in *beta* – !!**
 
-**protist.info** aims to be a comprehensive, free resource organizing and linking all knowledge about protists. The main site, though not yet available, will bring together general information about protists (the why and what).
+We do not see the microbial world on our daily walks, as we would a bird, flower, or mushroom. This is tragic, because it can lead us to think nothing is going on in that [sidewalk crack]([https://doi.org/10.1111/jeu.13020](https://doi.org/10.1111/jeu.13020)) or that [ancient Siberian permafrost layer](https://phys.org/news/2023-03-ancient-dormant-viruses-permafrost-revived.html). One of the goals of protist.info is to pull the curtain and provide functional tools to aid your observation of the natural world at the micro-level.
+
+>**protist.info** aims to be a comprehensive, free resource organizing and linking all knowledge about protists. The main site, though not yet available, will bring together general information about protists (the why and what).
 
 **notebook.protist.info** focuses on protist research (the how). Sharing institutional knowledge, online resources, and historical texts. It spans **culturing**, **microscopy**, and **molecular work**, compiling effective protocols for researching protists. To contribute, [[Make changes|send a message]], with your ideas or information. 
-
-[[protocols]]
-
-[[recipes]]
 
 Everyone can do science. To encourage this, notebook.protist.info is continuously adding and updating protocols with frugality in mind. Not everyone has access to a laboratory or expensive equipment. Thus, we will attempt to provide multiple routes to achieve a certain task when possible (Ex. [[Sterilizing things]])).
 
 [[External protistology resources]]
+
+## Guides (coming soon)
+
+[[Isolating and culturing amoebae for any type of sample]]
+
+[[How to do timelapse micrography]]
 <!--
 **Guides**
 

@@ -1,4 +1,4 @@
-[[Guide to timelapse micrography]]
+[[How to do timelapse micrography]]
 
 If you do not have access to adobe after effects, using python is a suitable alternative. The disadvantage here is that you need to manipulate code to get the text the way you want it on the video. However, it is easier to use in my opinion once you have figured out how to run python scripts.
 
