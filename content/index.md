@@ -15,12 +15,14 @@ Just as there are multiple routes, you can take to get somewhere, I will collect
 
 [[External protistology resources]]
 
+
+<!--
 ## Guides (coming soon)
 
 [[Isolating and culturing amoebae for any type of sample]]
 
 [[How to do timelapse micrography]]
-<!--
+
 **Guides**
 
 *Guides join multiple protocols together to show what is possible*
